@@ -12,5 +12,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Duncan\n";
+    cout << "Hellloooooooooooooooo\n";
 }
