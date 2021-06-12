@@ -1,7 +1,7 @@
 [project]
-name = "cmkr_for_beginners"
+name = "monika_cpp_master"
 description = "A minimal cmkr project."
 
 [target.hello_world]
 type = "executable"
-sources = ["src/main.cpp"]
+sources = ["src/hello_world.cpp"]

@@ -23,7 +23,7 @@ if(CMKR_ROOT_PROJECT)
 	configure_file(cmake.toml cmake.toml COPYONLY)
 endif()
 
-project(cmkr_for_beginners
+project(monika_cpp_master
 	DESCRIPTION
 		"A minimal cmkr project."
 )
@@ -33,7 +33,7 @@ set(CMKR_TARGET hello_world)
 set(hello_world_SOURCES "")
 
 list(APPEND hello_world_SOURCES
-	"src/main.cpp"
+	"src/hello_world.cpp"
 )
 
 list(APPEND hello_world_SOURCES
